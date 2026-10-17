@@ -38,7 +38,3 @@ I also enjoy building **small services, web apps and experimental tools**, often
 </td>
 </tr>
 </table>
-
----
-
-<sub>Based between composition, code and the unexpected.</sub>
