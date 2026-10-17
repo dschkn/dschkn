@@ -33,7 +33,7 @@ I also enjoy building **small services, web apps and experimental tools**, often
 </td>
 <td align="center" valign="top" width="25%">
 
-<img src="./assets/husky.gif" width="190" alt="Dog working on a laptop"/>
+<img src="./assets/Dogs%20GIF%20by%20giphydiscovery.gif" width="190" alt="Dog working on a laptop"/>
 
 </td>
 </tr>
