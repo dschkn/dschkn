@@ -1,5 +1,3 @@
-<img align="right" src="./assets/husky.gif" width="125" alt="A husky saying hello" />
-
 # Hello, I'm Dmitrii Shchukin.
 
 **Composer · Sound Artist · Creative Coder**
@@ -12,21 +10,34 @@ I also enjoy building **small services, web apps and experimental tools**, often
 
 ---
 
-### Areas of interest
+<table>
+<tr>
+<td valign="top" width="75%">
 
-`ALGORITHMIC COMPOSITION` · `SPECTRAL MUSIC` · `SPATIAL AUDIO`  
-`GENERATIVE ART` · `CREATIVE CODING` · `SOUND SYSTEMS`  
-`STOCKHAUSEN` · `MURAIL` · `XENAKIS`
+<h3>Areas of interest</h3>
 
-### Languages & tools
+<p><code>ALGORITHMIC COMPOSITION</code> · <code>SPECTRAL MUSIC</code> · <code>SPATIAL AUDIO</code><br/>
+<code>GENERATIVE ART</code> · <code>CREATIVE CODING</code> · <code>SOUND SYSTEMS</code><br/>
+<code>STOCKHAUSEN</code> · <code>MURAIL</code> · <code>XENAKIS</code></p>
 
-<img src="https://skillicons.dev/icons?i=js,python,java,html,css,git,vscode&theme=dark" alt="JavaScript, Python, Java, HTML, CSS, Git and VS Code" height="36" />
+<h3>Languages &amp; tools</h3>
 
-**Also:** Max/MSP · Web Audio · AI-assisted prototyping
+<img src="https://skillicons.dev/icons?i=js,python,java,html,css,git,vscode&theme=dark" alt="JavaScript, Python, Java, HTML, CSS, Git and VS Code" height="36"/>
 
-### Selected work
+<p><strong>Also:</strong> Max/MSP · Web Audio · AI-assisted prototyping</p>
 
-Explore my music, visual experiments and web-based projects at **[boatbehind.online](https://boatbehind.online)**.
+<h3>Selected work</h3>
+
+<p>Explore my music, visual experiments, services and apps at <strong><a href="https://boatbehind.online">boatbehind.online</a></strong>.</p>
+
+</td>
+<td align="center" valign="top" width="25%">
+
+<img src="./assets/husky.gif" width="190" alt="Dog working on a laptop"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
