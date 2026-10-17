@@ -11,7 +11,8 @@ My practice moves between spectral and algorithmic composition, spatial audio, g
 ### Areas of interest
 
 `ALGORITHMIC COMPOSITION` · `SPECTRAL MUSIC` · `SPATIAL AUDIO`  
-`GENERATIVE ART` · `CREATIVE CODING` · `SOUND SYSTEMS`
+`GENERATIVE ART` · `CREATIVE CODING` · `SOUND SYSTEMS`  
+`STOCKHAUSEN` · `MURAIL` · `XENAKIS`
 
 ### Tools & languages
 
