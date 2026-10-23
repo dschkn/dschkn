@@ -1,12 +1,10 @@
 # <img src="./assets/profile-heading.svg" alt="Hello, I’m Dmitrii Shchukin." width="630" />
 
-**Composer · Sound Artist · Creative Coder**
+**Software Engineer · App Designer · Composer**
 
-I work at the intersection of **experimental music, algorithms, sound and visual systems**.
+I'm a software engineer and app designer focused on developing **full-stack web applications, backend systems, server-side applications, infrastructure, networks and self-hosted services**.
 
-My practice moves between spectral and algorithmic composition, spatial audio, generative structures and software experiments. I'm interested in how simple rules can produce complex forms, and how code can become a compositional medium.
-
-I also enjoy building **small services, web apps and experimental tools**, often with **AI in the loop**.
+And I compose music.
 
 ---
 
