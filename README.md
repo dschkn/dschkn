@@ -1,4 +1,4 @@
-# Hello, I'm <img src="./assets/name-yellow.svg" alt="Dmitrii Shchukin" height="37" style="vertical-align:middle" />
+# <img src="./assets/profile-heading.svg" alt="Hello, I’m Dmitrii Shchukin." width="630" />
 
 **Composer · Sound Artist · Creative Coder**
 
