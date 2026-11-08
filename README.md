@@ -1,10 +1,12 @@
-# <img src="./assets/profile-heading.svg" alt="Hello, I’m Dmitrii Shchukin." width="630" />
+# <img src="./assets/profile-heading.svg" alt="Hallo, ich bin Dmitrii Shchukin." width="630" />
 
-**Software Engineer · App Designer · Composer**
+**Komponist · Klangkünstler · Creative Developer**
 
-I'm a software engineer and app designer focused on developing **full-stack web applications, backend systems, server-side applications, infrastructure, networks and self-hosted services**.
+Ich bin Komponist und entwickle Software an der Schnittstelle von **zeitgenössischer Musik, Klangforschung und Technologie**. Im Mittelpunkt meiner Arbeit stehen algorithmische Komposition, spektrales Denken sowie die Gestaltung und räumliche Projektion von Klang.
 
-And I compose music.
+Ich beschäftige mich mit **elektronischer und computergestützter Musik**, Mehrkanaltechnik, Spatialisation und Klangraumprojektion. Dazu gehören die Entwicklung musikalischer Software, generativer Systeme, interaktiver Anwendungen und individueller Werkzeuge für Komposition, Klanganalyse und Aufführung.
+
+Neben diesen künstlerischen und forschungsorientierten Projekten entwickle ich auch Webanwendungen, Benutzeroberflächen und serverseitige Lösungen. Programmierung verstehe ich dabei sowohl als technisches Handwerk als auch als eigenständiges kompositorisches Werkzeug.
 
 ---
 
@@ -12,26 +14,27 @@ And I compose music.
 <tr>
 <td valign="top" width="75%">
 
-<h3>Areas of interest</h3>
+<h3>Arbeits- und Interessenschwerpunkte</h3>
 
-<p><code>ALGORITHMIC COMPOSITION</code> · <code>SPECTRAL MUSIC</code> · <code>SPATIAL AUDIO</code><br/>
-<code>GENERATIVE ART</code> · <code>CREATIVE CODING</code> · <code>SOUND SYSTEMS</code><br/>
+<p><code>ALGORITHMISCHE KOMPOSITION</code> · <code>SPEKTRALE MUSIK</code><br/>
+<code>ELEKTRONISCHE MUSIK</code> · <code>SPATIALISATION</code> · <code>MEHRKANALTECHNIK</code><br/>
+<code>KLANGAKUSTIK</code> · <code>GENERATIVE SYSTEME</code> · <code>CREATIVE CODING</code><br/>
 <code>STOCKHAUSEN</code> · <code>MURAIL</code> · <code>XENAKIS</code></p>
 
-<h3>Languages &amp; tools</h3>
+<h3>Programmiersprachen und Werkzeuge</h3>
 
-<img src="https://skillicons.dev/icons?i=js,python,java,html,css,git,vscode&theme=dark" alt="JavaScript, Python, Java, HTML, CSS, Git and VS Code" height="36"/>
+<img src="https://skillicons.dev/icons?i=js,python,java,html,css,git,vscode&theme=dark" alt="JavaScript, Python, Java, HTML, CSS, Git und VS Code" height="36"/>
 
-<p><strong>Also:</strong> Max/MSP · Web Audio · AI-assisted prototyping</p>
+<p><strong>Außerdem:</strong> Max/MSP · Web Audio · computergestützte Komposition · KI-gestütztes Prototyping</p>
 
-<h3>Selected work</h3>
+<h3>Ausgewählte Arbeiten</h3>
 
-<p>Explore my music, visual experiments, services and apps at <strong><a href="https://boatbehind.online">boatbehind.online</a></strong>.</p>
+<p>Meine Kompositionen, Klangexperimente, Forschungsprojekte und Softwareanwendungen sind auf <strong><a href="https://boatbehind.online">boatbehind.online</a></strong> zu finden.</p>
 
 </td>
 <td align="center" valign="top" width="25%">
 
-<img src="./assets/Dogs%20GIF%20by%20giphydiscovery.gif" width="190" alt="Dog working on a laptop"/>
+<img src="./assets/Dogs%20GIF%20by%20giphydiscovery.gif" width="190" alt="Hund bei der Arbeit am Laptop"/>
 
 </td>
 </tr>
