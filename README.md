@@ -2,11 +2,7 @@
 
 **Komponist · Klangkünstler · Creative Developer**
 
-Ich bin Komponist und entwickle Software an der Schnittstelle von **zeitgenössischer Musik, Klangforschung und Technologie**. Im Mittelpunkt meiner Arbeit stehen algorithmische Komposition, spektrales Denken sowie die Gestaltung und räumliche Projektion von Klang.
-
-Ich beschäftige mich mit **elektronischer und computergestützter Musik**, Mehrkanaltechnik, Spatialisation und Klangraumprojektion. Dazu gehören die Entwicklung musikalischer Software, generativer Systeme, interaktiver Anwendungen und individueller Werkzeuge für Komposition, Klanganalyse und Aufführung.
-
-Neben diesen künstlerischen und forschungsorientierten Projekten entwickle ich auch Webanwendungen, Benutzeroberflächen und serverseitige Lösungen. Programmierung verstehe ich dabei sowohl als technisches Handwerk als auch als eigenständiges kompositorisches Werkzeug.
+Komponist und Creative Developer mit Schwerpunkt auf algorithmischer Komposition, elektronischer Musik, Klangforschung, Spatialisation und der Entwicklung musikalischer Software.
 
 ---
 
